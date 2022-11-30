@@ -373,8 +373,8 @@ app.post('/reset/:token', function(req, res) {
             // var smtpTransport = nodemailer.createTransport('SMTP', {
             //     service: 'gmail',
             //     auth: {
-            //         user: 'ghoshsanchita656@gmail.com',
-            //         pass: 'Sanchita@123'
+            //         user: 'subhanshu1604@gmail.com',
+            //         pass: 'Sahil@12345'
             //     }
             // });
             var smtpTransport = nodemailer.createTransport("smtps://founditoutbychance%40gmail.com:"+encodeURIComponent('sdas21062002') + "@smtp.gmail.com:465");
